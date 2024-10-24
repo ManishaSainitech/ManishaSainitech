@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Manisha Saini
-- 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning Android Developement 
+- 🌱 I’m an Android Developer skilled with Java and Kotlin 
 
 
 <!---
